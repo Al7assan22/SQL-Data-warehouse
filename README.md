@@ -18,7 +18,6 @@ The project follows the **Medallion Architecture** (Bronze, Silver, Gold).
 - [Transformations](#transformations)
 - [Gold Layer Data Model](#gold-layer-data-model)
 - [Data Quality Checks](#data-quality-checks)
-- [Author](#author)
 
 ---
 
@@ -212,12 +211,3 @@ WHERE customer_key IS NULL
    OR product_key IS NULL;
 ```
 
----
-
-## Author
-
-**Alhassan**
-Business Informatics, Benha University
-
-- GitHub: https://github.com/your-username
-- LinkedIn: https://www.linkedin.com/in/your-profile
